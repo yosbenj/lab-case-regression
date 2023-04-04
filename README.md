@@ -4,7 +4,12 @@
 
 ### Instructions
 
-At this point, we have created a model to predict who will make a donation and who won't. But, what about the ammount of money that each person will give?
-In this lab, subset those that made a donation and use that subset to create a model to predict how much money will they give.
+At this point, we have created a model to predict who will make a donation and who won't (Classification Model). But, what about the ammount of money that each person will give?
 
-Evaluate the result of your model and estimate how much better the result are for the business in comparison with the naive scenario we discuss on Monday.
+In this lab, subset those that have made a donation (Target B) and use that subset to create a model to predict how much money will they give (Target D) (Regression Model).
+
+- Only look at people who have donated (Target B = 1)
+- Use this new dataframe to predict how much they will donate (Target D)
+- Using the regression model, make predictions on all of the people our classification model predicted will donate.
+
+Evaluate the result of your model and estimate how much better the result are for the business in comparison with the naive scenario we discuss on Monday. (Just sending donation cards to everyone)
