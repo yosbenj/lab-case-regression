@@ -14,3 +14,5 @@ In this lab, subset those that have made a donation (Target B) and use that subs
 - See the pdf file for a schema of the process.
 
 Evaluate the result of your model and estimate how much better the result are for the business in comparison with the naive scenario we discuss on Monday. (Just sending donation cards to everyone)
+
+You can see a flowchart for the project [Lucid Flowchart](https://lucid.app/lucidchart/dd701870-3d4e-45c3-b49c-01976181ae06/edit?viewport_loc=-15%2C-25%2C2150%2C1048%2C0_0&invitationId=inv_089ae862-550b-4e82-a606-a8122f39d2f2)
